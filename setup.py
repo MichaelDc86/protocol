@@ -2,7 +2,7 @@ import setuptools
 
 
 setuptools.setup(
-    name='transport-protocol',
+    name='transport-protocol_ml',
     version='0.0.1',
     author='Mike Lensky',
     author_email='',

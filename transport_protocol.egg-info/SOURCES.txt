@@ -1,5 +1,0 @@
-setup.py
-transport_protocol.egg-info/PKG-INFO
-transport_protocol.egg-info/SOURCES.txt
-transport_protocol.egg-info/dependency_links.txt
-transport_protocol.egg-info/top_level.txt
